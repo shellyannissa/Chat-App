@@ -13,7 +13,7 @@ Login page
 
 ## Technologies Used
 
-This application was build with the aid of the following technologies and frameworks
+This application was built with the aid of the following technologies and frameworks
 - nodejs
 - expressjs
 - react
