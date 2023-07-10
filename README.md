@@ -1,5 +1,5 @@
 # OverView
-An application that facilitates seamleass real time communication for users to interact with each other. Users could indulge in group and private conversation.
+An application that facilitates seamless real time communication for users to interact with each other. Users could indulge in group and private conversation.
 
 ## UI
 Login page
